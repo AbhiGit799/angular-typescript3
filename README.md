@@ -1,7 +1,9 @@
-# Angularproject04feb
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
-
+# TypeScript Project For Angular PART 3
+Hi, <br/>
+This is my Learning Project on Typescript for Angular PART-3 <br/>
+This project was generated with Angular CLI Angular CLI: 14.0.0. <br/>
+node --version = v14.20.0 <br/>
+npm --version = 6.14.17 <br/>
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
